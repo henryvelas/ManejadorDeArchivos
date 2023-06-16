@@ -1,0 +1,17 @@
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.csproj.AssemblyReference.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.Form1.resources
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.csproj.GenerateResource.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.AssemblyInfoInputs.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.AssemblyInfo.cs
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\bin\Debug\net6.0-windows\ManejadorDeArchivos.exe
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\bin\Debug\net6.0-windows\ManejadorDeArchivos.deps.json
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\bin\Debug\net6.0-windows\ManejadorDeArchivos.runtimeconfig.json
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\bin\Debug\net6.0-windows\ManejadorDeArchivos.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\bin\Debug\net6.0-windows\ManejadorDeArchivos.pdb
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\refint\ManejadorDeArchivos.dll
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.pdb
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ManejadorDeArchivos.genruntimeconfig.cache
+C:\Users\HENRY-LAPTOP\Documents\C#\ManejadorDeArchivos\ManejadorDeArchivos\obj\Debug\net6.0-windows\ref\ManejadorDeArchivos.dll
